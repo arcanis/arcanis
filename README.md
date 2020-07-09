@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/1037931/87012220-45b07180-c1c9-11ea-99e9-d9a10ff665df.png)
+
 Hi there! 😸
 
 My name's Maël and I'm a senior software engineer, currently focusing on developer experience (how to improve developer productivity while making the application more stable?). I jumped into this role back in 2017 when I joined Facebook after years of startups, then kept doing it after moving to [Datadog](https://www.datadoghq.com/). As part of my role (and also because I like it 😉), I make a LOT of contributions to the open-source.
