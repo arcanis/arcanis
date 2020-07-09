@@ -1,10 +1,8 @@
-<img align="right" height="200" src="https://user-images.githubusercontent.com/1037931/87014534-92e21280-c1cc-11ea-9675-5f2c0f3c287f.png"/>
+<img align="right" height="180" src="https://user-images.githubusercontent.com/1037931/87014534-92e21280-c1cc-11ea-9675-5f2c0f3c287f.png"/>
 
 Hi there! 😸
 
 My name's Maël and I'm a senior software engineer, currently focusing on developer experience (how to improve developer productivity while making the application more stable?). I jumped into this role back in 2017 when I joined Facebook after years of startups, then kept doing it after moving to [Datadog](https://www.datadoghq.com/). As part of my role (and also because I like it 😉), I make a LOT of contributions to the open-source.
-
----
 
 If you want to support me, feel free to [follow me on Twitter](https://twitter.com/arcanis) (it gives me a wider reach, and thus makes it easier to promote my project updates), or wait until I finally enable this magic Sponsor button. Also feel free to drop me an email!
 
