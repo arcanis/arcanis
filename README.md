@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/1037931/87012220-45b07180-c1c9-11ea-99e9-d9a10ff665df.png)
+![](https://user-images.githubusercontent.com/1037931/87012845-10585380-c1ca-11ea-9b20-0d1aa4866af9.png)
 
 Hi there! 😸
 
