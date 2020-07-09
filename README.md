@@ -8,7 +8,7 @@ If you want to support me, feel free to [follow me on Twitter](https://twitter.c
 
 ## My work on Yarn
 
-I've been Yarn's BDFL for a few years now (since 2017, approximately). More recently I [completely rearchitectured and rewrote the software](https://dev.to/arcanis/introducing-yarn-2-4eh1), which was a huge undertaking as you can imagine. Fortunately, I've been helped in this endeavor by the arrival of new contributors, finally building the community I dreamt of. Speaking of which, we're always open to new contributors, so ping me on [Discord](https://discord.com/invite/yarnpkg) if that might be you!
+I've been Yarn's BDFL for a few years now (since 2017, approximately). More recently I [completely rearchitectured and rewrote the software](https://dev.to/arcanis/introducing-yarn-2-4eh1), which has been a huge undertaking as you can imagine. Fortunately, I've been helped in this endeavor by the arrival of new contributors, finally building the community I dreamt of. Speaking of which, we're always open to new contributors, so ping me on [Discord](https://discord.com/invite/yarnpkg) if that might be you!
 
 Finally, I'm also the designer and implementer for Yarn Plug'n'Play (PnP) - so if you see me tell you that you shouldn't rely on hoisting, do me a favour and trust me! After all this time, I feel like I could write a thesis about package management 😄
 
