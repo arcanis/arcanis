@@ -14,6 +14,6 @@ Finally, I'm also the designer and implementer for Yarn Plug'n'Play (PnP) - so i
 
 ## Other projects
 
-I love to learn by practice, and since I started my journey I touched a bit of everything: full websites, [compilers](https://github.com/castel/), [emulators](http://arcanis.github.io/pokelib/example/), [terminal interfaces](https://github.com/manaflair/mylittledom), ... while there's many way to approach software development, I found this one to fit my personality the most. By contrast, I find very hard to follow tutorial or videos when learning new techs!
+I love to learn by practice, and since I started my journey I touched a bit of everything: full websites, [compilers](https://github.com/castel/), [emulators](http://arcanis.github.io/pokelib/example/), [terminal interfaces](https://github.com/manaflair/mylittledom), ... while there's many way to approach software development, I found this one to fit my personality the most. By contrast, I find very hard to follow tutorials or videos when learning new techs!
 
 My two main libraries at this point in time are [Clipanion](https://github.com/arcanis/clipanion), a CLI framework, and [Typanion](https://github.com/arcanis/typanion), a runtime type assertion library. I also have a secret project I hope to show you one day ... one more reason to [follow me on Twitter](https://twitter.com/arcanis)! 💫
