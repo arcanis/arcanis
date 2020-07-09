@@ -2,7 +2,7 @@
 
 Hi there! 😸
 
-My name's Maël and I'm a senior software engineer, currently focusing on developer experience (how to improve developer productivity while making the application more stable?). I jumped into this role back in 2017 when I joined Facebook after years of startups, then kept doing it after moving to [Datadog](https://www.datadoghq.com/). As part of my role (and also because I like it 😉), I make a LOT of contributions to the open-source.
+My name's Maël and I'm a senior software engineer, currently focusing on developer experience (how to improve developer productivity while making the application more stable?). I jumped into this role back in 2017 when I joined Facebook after years of startups, then kept doing it after moving to [Datadog](https://www.datadoghq.com/). As part of my role (and also because I like it and I'm lucky enough to have an understanding family 😉), I make a LOT of contributions to the open-source.
 
 If you want to support me, feel free to [follow me on Twitter](https://twitter.com/arcanis) (it gives me a wider reach, and thus makes it easier to promote my project updates), or wait until I finally enable this magic Sponsor button. Also feel free to drop me an email!
 
