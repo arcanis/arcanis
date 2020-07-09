@@ -1,6 +1,6 @@
 <img align="right" height="160" src="https://user-images.githubusercontent.com/1037931/87014534-92e21280-c1cc-11ea-9675-5f2c0f3c287f.png"/>
 
-Hi there! 😸
+Hi there! 🎉
 
 My name's Maël and I'm a senior software engineer, currently focusing on developer experience (how to improve developer productivity while making our applications more stable?). I jumped into this role back in 2017 when I joined Facebook after years of startups, then kept doing it after moving to [Datadog](https://www.datadoghq.com/). As part of my role (and also because I like it and I'm lucky enough to have an understanding family 😉), I contribute a lot to the open-source movement.
 
